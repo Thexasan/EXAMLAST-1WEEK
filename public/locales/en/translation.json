@@ -1,0 +1,27 @@
+{
+    "nav":{
+        "main":"Main",
+        "service":"Service",
+        "object":"Objects",
+        "career":"Career",
+        "contact":"Contacts",
+        "join":"Join to us"
+    },
+    "nav2":{
+        "company":"About us",
+        "news":"News",
+        "otziv":"Review"
+    },
+    
+"sec":"Fully complex",
+"sec2":"svayn work",
+"year":"Our company over 10 year in sale",
+"more":"More",
+"btn":"Community with us",
+"btn2":"Professional mechanism with svayn work from our company and android",
+"btn3":"We know our work and etc",
+"btn4":"Our company over 10 year in sale",
+"who":"Who we are?",
+"qwer":"Our preferences",
+"we":"Why we?"
+}
